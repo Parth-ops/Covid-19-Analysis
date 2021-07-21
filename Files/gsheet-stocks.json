@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quick-nexus-285515",
+  "private_key_id": "ae0b7b75e5fe44b1cd51fdb59f7c945650243ac9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/wRGuT0FtCVj8\nOaysDcUX4PbPIAi6/WP3PUi/muKP2W38Qfx7JHvDdxoKAcCs6Q7mtQU4y9+i1jDY\ngvL9eIy8ZFAn4TFCygv4HW7sVkq+NJ7gDVij7IAMmWNgr9i+CYwdbiuYlcX3rJ/4\nv6gVahcpeRVS5dYO6LsBf/V3oBnBZF6RAZrIlEXA6vek0Qhy2FMpGEkVavFfW/JH\n/YnFCsj7FDrKRUK3eM+KhHwfqzn489n0w+bJrs/kjScslJiBZAmLKU8kHODPf8wv\nX/AiBXu8ZN6cXz83MEE3HvKGTbR2biyIMW033eFbySxQ1cVJ3TYxus2SNNHwFQ0r\nXhM0Cl03AgMBAAECggEACy+yHm4GNQDVhsC+TBZe/JrX5ECwqI0SHsowGOlqIt91\nGcEnbUrHfvy8zO1cP1oSGNPPm/XTofq9jXURDSNkav1kjtS8gQS9uHDOjrJJvT3f\nVNad6K0OrUjpxCogSnCqSV89LEWGyxOU6BNexxPkQHLEOAy9tU+qPk3MeXj9wMtG\nPqHxw80DHf3eIgJlcRwC0NYqDi6/H+Dt2EOmNm+auMf68cZjMONIOH2/3AnP73jv\n8WfQOowY4NrxriqZlfV/vy/Kw3mSGBxzA1U4e5gInFeUTPQAnDM/yCLIXm1WjGyh\nArN6CnGGTXfShhLFQVXJhlifChsXdX9Hqw4uVkLS+QKBgQD2B2TSmYUWKdN5Or1s\nfdWjdn2LzvzsTktr94UL5IoCLbNtYyCiD7nUUiakiqtX0DiFtc4NQRbPq3cxkKcg\nzyXQbw8l6aTFzVSUjZHLjVUjgxvOUp9MNqrD9F8fyzSe/4M2dtC+9p7nSreNeLLI\nXkRa5SwdXrrVZYhPcwRGqvwrzwKBgQDHhpAMJAak/l437cFJMx+NAjJRlMuIKip6\n+ccfZ+vlbfKQBH6W+b1UKr4KC5tHW9NTSRoUgpuWkujIivadUs+La0nh6v1r+CQh\nZGgwwr3PE01L4nCeBZYXdiVXwqGjuKQR59lvbayHn8FyXwGxI56/tmG0O20j6rw5\nLO6uRgwKGQKBgFEfBP5vwjMZnXHmjVi9cPjR8/lqSXj9I984oPTX6S1otjXGLpdh\nCgvY/obYdkChFlH4LTWvlX7p8YY1RPYLd1NvmxYMINlbp5zHxR/RvRXVgBCaq42s\npMexxr+r9/DJHRGTQacFmEV5HGaYOpLYij9SOyZ/+qisLrLLoMhQTo9/AoGAMyKN\ncE8bVNXMF9FbJANyJpVViAr2TqNf17yEB8x+bIJNFBPSzaabmyKJKdHnrdYexs2J\nXZBLh7+G4T6cDZ3XiweoG7o50J37xIMTIMwIETYFLVmPOzB7Uu/4ihFbk7YSdnRR\nCXm2KdwLm+A1csyKNt/rEmHYisfyDUUytn9FPqECgYA1X46bGgFnM9zusN+ZTPJX\nQzxXdzeQvkmfo/SISPBRbsJCAWG6GiZOsg+LMC7RtQf7bAzm/puVO8qbikasAThs\napY9wvIEZEd7glNc08dTcfgv2YsYTrWSm5GqkogjEEoBFpAq/aMkBXLd7HJx2Pgc\nQJPik9d6VZBEpghcPs5CBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "access-gsheet@quick-nexus-285515.iam.gserviceaccount.com",
+  "client_id": "110121051239174590661",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/access-gsheet%40quick-nexus-285515.iam.gserviceaccount.com"
+}
